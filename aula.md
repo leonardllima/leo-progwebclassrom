@@ -83,10 +83,10 @@ Técnicos de ar-condicionado autônomos ou pequenas equipes que precisam organiz
 
 - Consulta por login simples ou código do atendimento
 - Status do serviço:
-  - Orçado
-  - Agendado
-  - Em execução
-  - Finalizado
+- Orçado
+- Agendado
+- Em execução
+- Finalizado
 - Detalhes do atendimento
 - Histórico de serviços
 
@@ -101,17 +101,7 @@ Técnicos de ar-condicionado autônomos ou pequenas equipes que precisam organiz
 
 - Exibição do valor final
 - Opções de pagamento:
-  - Pix
-  - Cartão
+- Pix
+- Cartão
 - Geração de link de pagamento
 - Confirmação automática de pagamento
-
-## 7. Funcionalidades Transversais (RNF - FURPS)
-
-- Interface responsiva (mobile e desktop)
-- Tempo de carregamento otimizado (< 3s)
-- Segurança básica de dados
-- Controle de conflitos de agenda
-- Integração com serviços externos:
-- Pagamento
-- Notificações (e-mail/WhatsApp)

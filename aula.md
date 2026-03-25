@@ -100,11 +100,3 @@ Técnicos de ar-condicionado autônomos ou pequenas equipes que precisam organiz
 - Geração de link de pagamento
 - Confirmação automática de pagamento
 
-## 7. Funcionalidades Transversais (RNF - FURPS)
-- Interface responsiva (mobile e desktop)
-- Tempo de carregamento otimizado (< 3s)
-- Segurança básica de dados
-- Controle de conflitos de agenda
-- Integração com serviços externos:
-  - Pagamento
-  - Notificações (e-mail/WhatsApp)
